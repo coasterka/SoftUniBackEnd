@@ -1,0 +1,14 @@
+Database table
+
+A table is a collection of related data held in a structured format within a database. It consists of fields (columns), and rows.
+More detailed, a table is a set of data elements (values) using a model of vertical columns (which are identified by their name) and horizontal rows, the
+cell being the unit where a row and column intersect. A table has a specified number of columns, but can have any number of rows. Each row is identified
+by one or more values appearing in a particular column subset. The columns subset which uniquely identifies a row is called the primary key. A table is
+usually a container of rows where a relation is a set and does not allow duplicates. Besides the actual data rows, tables generally have associated with
+them some metadata, such as constraints on the table or on the values within particular columns. The data in a table does not have to be physically stored
+in the database. Views are also relational tables, but their data are calculated at query time.
+Tables can store many records, from a few dozen for a small database up to millions for a large company database. For example, a database for a business
+would typically contain a table for customer information, which would store customers' account numbers, addresses, phone numbers, and so on as a series
+of columns. Each single piece of data (such as the account number) is a field in the table. A column consists of all the entries in a single field, such as the
+telephone numbers of all the customers. Fields, in turn, are organized as records, which are complete sets of information (such as the set of information about
+a particular customer), each of which comprises a row.
