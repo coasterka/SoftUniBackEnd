@@ -1,0 +1,10 @@
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EF-Mappings.exe
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EF-Mappings.pdb
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\obj\Debug\EF-Mappings.exe
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\obj\Debug\EF-Mappings.pdb
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EntityFramework.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EntityFramework.xml
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\obj\Debug\1. EF-Mappings.csprojResolveAssemblyReference.cache
