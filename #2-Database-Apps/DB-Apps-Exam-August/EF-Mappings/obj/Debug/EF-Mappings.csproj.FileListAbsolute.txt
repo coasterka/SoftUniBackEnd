@@ -1,0 +1,1 @@
+c:\users\hrisi\documents\visual studio 2013\Projects\DB-Apps-Exam-August\EF-Mappings\bin\Debug\EF-Mappings.exe.config

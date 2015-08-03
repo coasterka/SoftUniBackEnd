@@ -1,0 +1,16 @@
+Non-relational databases (NoSQL)
+
+NoSQL means Not Only SQL, implying that when designing a software solution or product, there are more than one storage mechanism
+that could be used based on the needs. A NoSQL database environment is a non-relational and largely distributed database system that
+enables rapid organization and analysis of extremely high-volume, disparate data types. NoSQL databases are sometimes referred to as
+cloud databases, non-relational databases, Big Data databases and a myriad of other terms and were developed in response to the sheer
+volume of data being generated, stored and analysed by modern users (user-generated data) and their applications (machine-generated
+data). When compared to relational databases, NoSQL databases are more scalable and provide superior performance. NoSQL databases
+are built to allow the insertion of data without a predefined schema. That makes it easy to make significant application changes in real-time,
+without worrying about service interruptions – which means development is faster, code integration is more reliable, and less database
+administrator time is needed. NoSQL has some common observations, such as:
+	- not using the relational model;
+	- running well on clusters;
+	- mostly open-source;
+	- built for the 21st century web estates;
+	- schema-less.

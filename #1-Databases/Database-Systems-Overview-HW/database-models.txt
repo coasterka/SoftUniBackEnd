@@ -1,0 +1,114 @@
+Data models define how the logical structure of a database is modeled. Data Models are fundamental entities to introduce abstraction in a DBMS.
+Data models define how data is connected to each other and how they are processed and stored inside the system.
+
+Hierarchical database model
+
+A hierarchical database model is a data model in which the data is organized into a tree-like structure. The data is stored as records which are
+connected to one another through links. A record is a collection of fields, with each field containing only one value. The entity type of a record
+defines which fields the record contains.
+The hierarchical database model mandates that each child record has only one parent, whereas each parent record can have one or more child
+records. In order to retrieve data from a hierarchical database the whole tree needs to be traversed starting from the root node. This model is
+recognized as the first database model created by IBM in the 1960s
+
+Network database model
+
+The network model is a database model conceived as a flexible way of representing objects and their relationships. Its distinguishing feature is that
+the schema, viewed as a graph in which object types are nodes and relationship types are arcs, is not restricted to being a hierarchy or lattice /мрежа/.
+While the hierarchical database model structures data as a tree of records, with each record having one parent record and many children, the network
+model allows each record to have multiple parent and child records, forming a generalized graph structure.
+
+Relational database model
+
+The relational model for database management is a database model based on first-order predicate logic. In the relational model of a database,
+all data is represented in terms of tuples /finite ordered list of elements/, grouped into relations. A database organized in terms of the relational
+model is a relational database. The purpose of the relational model is to provide a declarative method for specifying data and queries: users
+directly state what information the database contains and what information they want from it, and let the database management system software
+take care of describing data structures for storing the data and retrieval procedures for answering queries.
+
+Entity–relationship database model
+
+An entity–relationship model (ER model) is a data model for describing the data or information aspects of a business domain or its process requirements,
+in an abstract way that lends itself to ultimately being implemented in a database such as a relational database. The main components of ER models are
+entities (things) and the relationships that can exist among them.
+It is a systematic way of describing and defining a business process. The process is modeled as components (entities) that are linked with each other by
+relationships that express the dependencies and requirements between them, such as: one building may be divided into zero or more apartments, but
+one apartment can only be located in one building. Entities may have various properties (attributes) that characterize them. Diagrams created to represent
+these entities, attributes, and relationships graphically are called entity–relationship diagrams.
+
+Object database model
+
+An object database (also object-oriented database management system) is a database management system in which information is represented in the
+form of objects as used in object-oriented programming. Object databases are different from relational databases which are table-oriented. Object-relational
+databases are a hybrid of both approaches. Object databases have been considered since the early 1980s.
+Object-oriented database management systems combine database capabilities with object-oriented programming language capabilities. Relational DBMS
+projects maintain a clearer division between the database model and the application.
+
+Document-oriented database model
+
+A document-oriented database is a computer program designed for storing, retrieving, and managing document-oriented information, also known as
+semi-structured data. Document-oriented databases are one of the main categories of NoSQL databases and the popularity of the term
+"document-oriented database". Document-oriented databases are inherently a subclass of the key-value store, another NoSQL database concept. The
+difference lies in the way the data is processed; in a key-value store the data is considered to be inherently opaque to the database, whereas a document-oriented
+system relies on internal structure in the document order to extract metadata that the database engine uses for further optimization. Document databases
+contrast strongly with the traditional relational database (RDB). Relational databases are strongly typed during database creation, and store repeated data in
+separate tables that are defined by the programmer. In an RDB, every instance of data has the same format as every other, and changing that format is generally
+difficult. Document databases get their type information from the data itself, normally store all related information together, and allow every instance of data to be
+different from any other. This makes them more flexible in dealing with change and optional values, maps more easily into program objects, and often reduces
+database size. This makes them attractive for programming modern web applications, which are subject to continual change in place, and speed of deployment is
+an important issue.
+
+Other database models include:
+
+Entity–attribute–value model
+Star schema
+Associative model
+Multidimensional model
+Multivalue model
+Semantic model
+XML database
+Named graph
+Triplestore
+
+Detailed information about the Document-oriented database model
+
+The central concept of a document-oriented database are the documents, which is used in usual English sense of a group of data that encodes some sort of
+user-readable information. This contrasts with the value in the key-value store, which is assumed to be opaque /неразбираем/ data. The basic concept that
+makes a database document-oriented as opposed to key-value is the idea that the documents include internal structure, or metadata, that the database
+engine can use to further automate the storage and provide more value.
+When relational databases were introduced into the 1970s, data schemas were fairly simple and straightforward, and it made sense to conceive objects as
+sets of relationships. For example, an article object might be related to a category (an object), a tag (another object), a comment (another object), and so on.
+Because relationships between different types of data were specified in the database schema, these relational databases could be queried with a standard
+Structured Query Language, or SQL. But the environment for data, as well as programming, has changed since the development of the SQL database:
+    - The emergence of cloud computing has brought deployment and storage costs down dramatically, but only if data can be spread across multiple servers
+	  easily without disruption. In a complex SQL database, this is difficult because many queries require multiple large tables to be joined together to provide
+	  a response. Executing distributed joins is a very complex problem in relational databases.
+    - The need to store unstructured data, such as social media posts and multimedia, has grown rapidly. SQL databases are extremely efficient at storing
+	  structured information, and workarounds or compromises are necessary for storing and querying unstructured data.
+    - Agile development methods mean that the database schema needs to change rapidly as demands evolve. SQL databases require their structure to be specified
+	  in advance, which means any changes to the information schema require time-consuming ALTER statements to be run on a table.
+In response to these changes, new ways of storing data (NoSQL databases) have emerged that allow data to be grouped together more naturally and logically,
+and that loosen the restrictions on database schema. One of the most popular ways of storing data is a document data model, where each record and its associated
+data is thought of as a “document”. Document databases generally have very powerful query engines and indexing features that make it easy and fast to execute
+many different optimized queries. The strength of a document database’s query language is an important differentiator between these databases. In a document
+database, such as MongoDB, everything related to a database object is encapsulated together. Storing data in this way has the following advantages:
+	- Documents are independent units which makes performance better (related data is read contiguously off disk) and makes it easier to distribute data across
+	  multiple servers while preserving its locality.
+	- Application logic is easier to write. You don’t have to translate between objects in your application and SQL queries, you can just turn the object model directly
+	  into a document.
+	- Unstructured data can be stored easily, since a document contains whatever keys and values the application logic requires. In addition, costly migrations are
+	  avoided since the database does not need to know its information schema in advance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
