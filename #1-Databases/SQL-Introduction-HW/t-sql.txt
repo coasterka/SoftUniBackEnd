@@ -1,8 +1,0 @@
-T-SQL
-
-T-SQL (Transact-SQL) is a set of programming extensions that add several features to the Structured Query Language (SQL) including
-transaction control, exception and error handling, row processing, and declared variables. SQL was originally developed by IBM for
-querying, altering and defining relational databases, using declarative statements. T-SQL expands on the SQL standard to include procedural
-programming, local variables, various support functions for string processing, date processing, mathematics, etc. and changes to the
-DELETE and UPDATE statements. Transact-SQL is central to using Microsoft SQL Server. All applications that communicate with an instance
-of SQL Server do so by sending Transact-SQL statements to the server, regardless of the user interface of the application.
