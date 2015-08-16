@@ -1,0 +1,6 @@
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\bin\DistanceCalculatorSoapService.dll.config
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\bin\DistanceCalculatorSoapService.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\bin\DistanceCalculatorSoapService.pdb
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\obj\Debug\1. DistanceCalculatorSoapService.csprojResolveAssemblyReference.cache
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\obj\Debug\DistanceCalculatorSoapService.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorSoapService\obj\Debug\DistanceCalculatorSoapService.pdb

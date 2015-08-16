@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b12c4b0a-384c-4ff0-a81d-db558c635dfc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3878/ServiceDistanceCalculator.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceDistanceCalculator.xsd" MetadataType="Schema" ID="14b30976-1a18-4da7-bcb3-7a24cd49ee13" SourceId="1" SourceUrl="http://localhost:3878/ServiceDistanceCalculator.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceDistanceCalculator.disco" MetadataType="Disco" ID="a33a361a-aa25-4575-8e73-00f07d05f43d" SourceId="1" SourceUrl="http://localhost:3878/ServiceDistanceCalculator.svc?disco" />
+    <MetadataFile FileName="ServiceDistanceCalculator1.xsd" MetadataType="Schema" ID="5ff193b2-de20-4536-94ec-8a2343d2864e" SourceId="1" SourceUrl="http://localhost:3878/ServiceDistanceCalculator.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceDistanceCalculator.wsdl" MetadataType="Wsdl" ID="5534044e-de5a-4b14-b716-e3b4d22d260b" SourceId="1" SourceUrl="http://localhost:3878/ServiceDistanceCalculator.svc?wsdl" />
+    <MetadataFile FileName="ServiceDistanceCalculator2.xsd" MetadataType="Schema" ID="41c7448a-7d4d-4981-b4f5-6632a486acea" SourceId="1" SourceUrl="http://localhost:3878/ServiceDistanceCalculator.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

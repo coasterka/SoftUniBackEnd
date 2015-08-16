@@ -1,0 +1,12 @@
+Benefits of normalization
+
+	- Searching, sorting, and creating indexes is faster, since tables are narrower, and more rows fit on a data page.
+	- You usually have more tables.
+	- You can have more clustered indexes (one per table), so you get more flexibility in tuning queries.
+	- Index searching is often faster, since indexes tend to be narrower and shorter.
+	- More tables allow better use of segments to control physical placement of data.
+	- You usually have fewer indexes per table, so data modification commands are faster.
+	- Fewer null values and less redundant data, making your database more compact.
+	- Triggers execute more quickly if you are not maintaining redundant data.
+	- Data modification anomalies are reduced.
+	- Normalization is conceptually cleaner and easier to maintain and change as your needs change.

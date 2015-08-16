@@ -1,0 +1,24 @@
+Relational database management system (RDBMS)
+
+A relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational model. Many popular databases
+currently in use are based on the relational database model. RDBMSs are a common choice for the storage of information in new databases used for financial
+records, manufacturing and logistical information, personnel data, and other applications since the 1980s. Relational databases have often replaced legacy
+hierarchical databases and network databases because they are easier to understand and use. However, relational databases have been challenged by object
+databases, which were introduced in an attempt to address the object-relational impedance mismatch in relational databases, and XML databases. RDBMS is as
+well a type of database management system (DBMS) that stores data in the form of related tables. Relational databases are powerful because they require few
+assumptions about how data is related or how it will be extracted from the database. As a result, the same database can be viewed in many different ways.
+An important feature of relational systems is that a single database can be spread across several tables. This differs from flat-file databases, in which each database
+is self-contained in a single table. Almost all full-scale database systems are RDBMS's. Small database systems, however, use other designs that provide less
+flexibility in posing queries.
+
+RDBMS functions
+
+	- provides data to be stored in tables
+	- persists data in the form of rows and columns
+	- provides facility primary key, to uniquely identify the rows
+	- creates indexes for quicker data retrieval
+	- provides a virtual table creation in which sensitive data can be stored and simplified query can be applied.(views)
+	- sharing a common column in two or more tables(primary key and foreign key)
+	- provides multi user accessibility that can be controlled by individual users
+	- makes data management easier
+	- makes for a flexible database that can respond to changing requirements

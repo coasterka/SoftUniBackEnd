@@ -1,0 +1,29 @@
+Table relationships
+
+A relationship is a connection between two tables of data, based on one or more columns in each table. The relationship establishes how the
+data in the two tables should be correlated. A relationship works by matching data in key columns - usually columns with the same name in both
+tables. In most cases, the relationship matches the primary key from one table, which provides a unique identifier for each row, with an entry in
+the foreign key in the other table.
+
+Types of table relationships
+
+	- One-to-Many relationship
+	  A one-to-many relationship is the most common type of relationship. In this type of relationship, a row in table A can have many matching
+	  rows in table B, but a row in table B can have only one matching row in table A. You should only make a one-to-many relationship if only one
+	  of the related columns is a primary key or has a unique constraint. The primary key side of a one-to-many relationship is denoted by a key
+	  symbol. The foreign key side of a relationship is denoted by an infinity symbol.
+	  
+	- Many-to-Many relationship
+	  The many-to-many database relationship is used when you are in the situation where the rows in the first table can map to multiple rows in
+	  the second table, and those rows in the second table can also map to multiple (different) rows in the first table. You create such a relationship by
+	  defining a third table, called a junction table, whose primary key consists of the foreign keys from both table A and table B. A good design for a
+	  Many-to-Many relationship makes use of a join table. The term join table means a third SQL table that only holds primary keys.
+	  
+	- One-to-One Relationships
+	  In a one-to-one relationship, a row in table A can have no more than one matching row in table B, and vice versa. A one-to-one relationship is
+	  created if both of the related columns are primary keys or have unique constraints. This type of relationship is not common because most
+	  information related in this way would be all in one table. You might use a one-to-one relationship to:
+		  - divide a table with many columns;
+		  - isolate part of a table for security reasons;
+		  - store data that is short-lived and could be easily deleted by simply deleting the table;
+		  - store information that applies only to a subset of the main table.
