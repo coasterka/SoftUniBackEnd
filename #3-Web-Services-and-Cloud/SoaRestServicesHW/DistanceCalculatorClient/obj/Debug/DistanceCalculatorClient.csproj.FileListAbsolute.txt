@@ -1,1 +1,0 @@
-C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\bin\Debug\DistanceCalculatorClient.exe.config

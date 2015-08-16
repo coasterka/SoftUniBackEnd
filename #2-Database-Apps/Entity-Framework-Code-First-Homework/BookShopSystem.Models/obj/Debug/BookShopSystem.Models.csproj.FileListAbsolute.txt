@@ -1,4 +1,0 @@
-c:\users\hrisi\documents\visual studio 2013\Projects\BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
-c:\users\hrisi\documents\visual studio 2013\Projects\BookShopSystem\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
-c:\users\hrisi\documents\visual studio 2013\Projects\BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
-c:\users\hrisi\documents\visual studio 2013\Projects\BookShopSystem\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb
