@@ -1,0 +1,6 @@
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\bin\Debug\DistanceCalculatorClient.exe.config
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\bin\Debug\DistanceCalculatorClient.exe
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\bin\Debug\DistanceCalculatorClient.pdb
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\obj\Debug\2. DistanceCalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\obj\Debug\DistanceCalculatorClient.exe
+C:\Users\Hrisi\documents\visual studio 2013\Projects\SoaRestServicesHW\DistanceCalculatorClient\obj\Debug\DistanceCalculatorClient.pdb
