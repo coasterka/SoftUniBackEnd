@@ -1,0 +1,16 @@
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\BookShop.Data.dll.config
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\BookShop.Data.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\BookShop.Data.pdb
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\BookShop.Models.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\EntityFramework.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\BookShop.Models.pdb
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\EntityFramework.xml
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\obj\Debug\BookShop.Data.csprojResolveAssemblyReference.cache
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\obj\Debug\BookShop.Data.dll
+c:\users\hrisi\documents\visual studio 2013\Projects\WebApiTest2\BookShop.Data\obj\Debug\BookShop.Data.pdb
